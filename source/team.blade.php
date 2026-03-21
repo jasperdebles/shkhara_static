@@ -4,9 +4,9 @@
 <div class="h-screen gap-12 bg-sky-950 flex items-center justify-center">
     <div>
         <h1 class="font-bold text-white">Jasper de Bles</h1>
-        <h2 class="font-bold text-white">Full Stack Developer & Business Analyst</h2>
+        <h2 class="font-bold text-white">Software Engineer & Business Analyst</h2>
         <p class="text-white">
-            Profile description here please...
+            Profile description coming soon...
         </p>
     </div>
         <img src="/assets/images/linkedin.jpeg"
